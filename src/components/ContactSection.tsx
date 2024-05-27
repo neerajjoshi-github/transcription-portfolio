@@ -68,7 +68,7 @@ const ContactSection = () => {
           </div>
           <span className="text-sm md:text-base">Email Us</span>
           <span className="text-xs md:text-sm text-zinc-200">
-            hiteshpandey@gamil.com
+            hiteshpandey442@gmail.com
           </span>
         </div>
         <div className="max-md:col-span-2 bg-shadow-gradient flex flex-col max-md:items-center max-md:text-center gap-1 rounded-lg border border-border p-3">
@@ -76,7 +76,9 @@ const ContactSection = () => {
             <Phone size={28} />
           </div>
           <span className="text-sm md:text-base">Call Us</span>
-          <span className="text-xs md:text-sm text-zinc-200">+9145458965</span>
+          <span className="text-xs md:text-sm text-zinc-200">
+            +917579109883
+          </span>
         </div>
         <div className="max-md:col-span-4 bg-shadow-gradient flex flex-col max-md:items-center max-md:text-center  gap-1 rounded-lg border border-border p-3">
           <div className="bg-shadow-gradient border border-border rounded-lg p-2 w-fit mb-2">
